@@ -1,0 +1,182 @@
+> cc -D_BIN_ -o bin_output BinaryOpsInC.c 
+> bin_output
+Input a number -->  8
+         1 - Display number in BINARY 
+         2 - Shift left circular one digit 
+         3 - Shift right circular one digit 
+         4 - 1's Complement 
+         5 - Exit 
+Enter your option here -->  1
+00000000000000000000000000001000
+         1 - Display number in BINARY 
+         2 - Shift left circular one digit 
+         3 - Shift right circular one digit 
+         4 - 1's Complement 
+         5 - Exit 
+Enter your option here -->  2
+00000000000000000000000000010000
+         1 - Display number in BINARY 
+         2 - Shift left circular one digit 
+         3 - Shift right circular one digit 
+         4 - 1's Complement 
+         5 - Exit 
+Enter your option here -->  3
+00000000000000000000000000001000
+         1 - Display number in BINARY 
+         2 - Shift left circular one digit 
+         3 - Shift right circular one digit 
+         4 - 1's Complement 
+         5 - Exit 
+Enter your option here -->  4
+11111111111111111111111111110111
+         1 - Display number in BINARY 
+         2 - Shift left circular one digit 
+         3 - Shift right circular one digit 
+         4 - 1's Complement 
+         5 - Exit 
+Enter your option here -->  5
+You have successfully exited from program
+> bin_output 
+Input a number -->  2153791520
+         1 - Display number in BINARY 
+         2 - Shift left circular one digit 
+         3 - Shift right circular one digit 
+         4 - 1's Complement 
+         5 - Exit 
+Enter your option here -->  1
+10000000011000000100000000100000
+         1 - Display number in BINARY 
+         2 - Shift left circular one digit 
+         3 - Shift right circular one digit 
+         4 - 1's Complement 
+         5 - Exit 
+Enter your option here -->  2
+00000000110000001000000001000001
+         1 - Display number in BINARY 
+         2 - Shift left circular one digit 
+         3 - Shift right circular one digit 
+         4 - 1's Complement 
+         5 - Exit 
+Enter your option here -->  2
+00000001100000010000000010000010
+         1 - Display number in BINARY 
+         2 - Shift left circular one digit 
+         3 - Shift right circular one digit 
+         4 - 1's Complement 
+         5 - Exit 
+Enter your option here -->  3
+00000000110000001000000001000001
+         1 - Display number in BINARY 
+         2 - Shift left circular one digit 
+         3 - Shift right circular one digit 
+         4 - 1's Complement 
+         5 - Exit 
+Enter your option here -->  3
+10000000011000000100000000100000
+         1 - Display number in BINARY 
+         2 - Shift left circular one digit 
+         3 - Shift right circular one digit 
+         4 - 1's Complement 
+         5 - Exit 
+Enter your option here -->  5
+You have successfully exited from program
+> cc -D_HEX_ -o hex_output BinaryOpsInC.c 
+> hex_output 
+Input a number -->  2271560481
+         1 - Display number in HEXADECIMAL 
+         2 - Shift left circular one digit 
+         3 - Shift right circular one digit 
+         4 - 1's Complement 
+         5 - Exit 
+Enter your option here -->  1
+0x87654321
+         1 - Display number in HEXADECIMAL 
+         2 - Shift left circular one digit 
+         3 - Shift right circular one digit 
+         4 - 1's Complement 
+         5 - Exit 
+Enter your option here -->  2
+0x76543218
+         1 - Display number in HEXADECIMAL 
+         2 - Shift left circular one digit 
+         3 - Shift right circular one digit 
+         4 - 1's Complement 
+         5 - Exit 
+Enter your option here -->  2
+0x65432187
+         1 - Display number in HEXADECIMAL 
+         2 - Shift left circular one digit 
+         3 - Shift right circular one digit 
+         4 - 1's Complement 
+         5 - Exit 
+Enter your option here -->  2
+0x54321876
+         1 - Display number in HEXADECIMAL 
+         2 - Shift left circular one digit 
+         3 - Shift right circular one digit 
+         4 - 1's Complement 
+         5 - Exit 
+Enter your option here -->  3
+0x65432187
+         1 - Display number in HEXADECIMAL 
+         2 - Shift left circular one digit 
+         3 - Shift right circular one digit 
+         4 - 1's Complement 
+         5 - Exit 
+Enter your option here -->  3
+0x76543218
+         1 - Display number in HEXADECIMAL 
+         2 - Shift left circular one digit 
+         3 - Shift right circular one digit 
+         4 - 1's Complement 
+         5 - Exit 
+Enter your option here -->  3
+0x87654321
+         1 - Display number in HEXADECIMAL 
+         2 - Shift left circular one digit 
+         3 - Shift right circular one digit 
+         4 - 1's Complement 
+         5 - Exit 
+Enter your option here -->  1
+0x87654321
+         1 - Display number in HEXADECIMAL 
+         2 - Shift left circular one digit 
+         3 - Shift right circular one digit 
+         4 - 1's Complement 
+         5 - Exit 
+Enter your option here -->  4
+789ABCDE
+         1 - Display number in HEXADECIMAL 
+         2 - Shift left circular one digit 
+         3 - Shift right circular one digit 
+         4 - 1's Complement 
+         5 - Exit 
+Enter your option here -->  5
+You have successfully exited from program
+> bin_output 
+Input a number --> 1221313
+         1 - Display number in BINARY 
+         2 - Shift left circular one digit 
+         3 - Shift right circular one digit 
+         4 - 1's Complement 
+         5 - Exit 
+Enter your option here -->  1
+00000000000100101010001011000001
+         1 - Display number in BINARY 
+         2 - Shift left circular one digit 
+         3 - Shift right circular one digit 
+         4 - 1's Complement 
+         5 - Exit 
+Enter your option here -->  4
+11111111111011010101110100111110
+         1 - Display number in BINARY 
+         2 - Shift left circular one digit 
+         3 - Shift right circular one digit 
+         4 - 1's Complement 
+         5 - Exit 
+Enter your option here -->  5
+You have successfully exited from program
+> ^Dexit
+
+script done on March 3, 2016 11:38:44 AM CST
+
